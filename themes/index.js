@@ -287,6 +287,12 @@ const themes = {
     text_color: "C3D1D9",
     bg_color: "0D1117"
   }
+  feel_blue:{
+    title_color: "fff",
+    icon_color: "00ffff",
+    text_color: "fff",
+    bg_color: "4568dc"
+  }
 };
 
 module.exports = themes;
